@@ -1,0 +1,25 @@
+#
+# streets.txt
+# -----
+# List of relevant streets and address ranges
+#
+"street","min","max"
+"Shady Lawn Rd","0","809"
+"Shady Lawn Ct","",""
+"Arlington","0","608"
+"N Lakeshore","",""
+"S Lakeshore","",""
+"Kenmore","0","815"
+"Brookview","0","612"
+"Red Bud Rd","",""
+"Booker Creek Rd","2531","100000"
+"Honeysuckle","0","2417"
+"Owens Ct","",""
+"Lakeshore Ln","",""
+"Lakeshore Ct","",""
+"Cedar Falls Rd","",""
+"Rolling Rd","",""
+"Knollwood Dr","0","241"
+"Woodhaven Rd","",""
+"Ridgecrest Dr","",""
+"May Ct","",""
