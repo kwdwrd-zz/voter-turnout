@@ -1,0 +1,25 @@
+
+
+
+Useful current note:
+github does not allow files > 50MB (free account). ncvoter68.txt is 62MB; to
+run the script *reliably* you will need to obtain the data yourself from:
+
+https://www.ncsbe.gov/results-data/voter-registration-data
+	^^^[ to view all available datasets ]
+
+https://s3.amazonaws.com/dl.ncsbe.gov/data/ncvoter68.zip
+	^^^[ just Orange County data ]
+
+
+
+To obtain current absentee ballot data (NCSBE says updated at 5am everyday):
+
+https://www.ncsbe.gov/results-data/absentee-data
+  ^^^[ to see summaries, etc. ]
+
+https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/2020_11_03/absentee_county_20201103.zip
+  ^^^[ data pre-separated by county ]
+
+
+
